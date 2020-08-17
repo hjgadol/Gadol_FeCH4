@@ -3,9 +3,9 @@ Repository for "Thermodynamic Constraints Influencing Methane Production and Mic
 |File Name	|Description	|Figure
 |-------------	|-------------	|-------------
 |methane_produced_reps.csv	|methane produced time series	|#2
-|FeTot_Thermo2019.csv	|total HCl-extractable Fe (Fe(II) + Fe(III)) time series	|#S2-B
+|HCl_FeII	|HCl-extractable Fe(II) time series	|#3
 |ThermoAcetateData_concs	|acetate concentration time series	|#S1
 |Fe_Aq_Mar2020	|dissolved Fe (measured with ICP)	|#S2-A
-|HCl_FeII	|HCl-extractable Fe(II) time series	|#3
+|FeTot_Thermo2019.csv	|total HCl-extractable Fe (Fe(II) + Fe(III)) time series	|#S2-B
 |C13TracerCH4	|methane produced time series from tracer experiments	|#S3-A
 |13CTracerCO2	|13C-labeled CO2 as a percent of total CO2	|#S3-B
