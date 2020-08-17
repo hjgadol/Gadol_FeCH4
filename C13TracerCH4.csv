@@ -1,0 +1,37 @@
+﻿Sample1,Total Moles CH4 at sampling1,Sample2,Total Moles CH4 at sampling2,Sample3,Total Moles CH4 at sampling3,Avg.Conc.mol,Std.Dev.mol,Avg.Conc,Std.Dev,Time,Mineral_Type
+ctrl1-1,NaN,ctrl2-1.csv,3.95E-06,ctrl3-1.csv,NaN,3.95E-06,NaN,3.95E-03,NaN,0,Control
+ctrl1-2a.csv,4.39E-06,ctrl2-2a.csv,4.39E-06,ctrl3-2a.csv,NaN,4.39E-06,5.79E-09,4.39E-03,5.79E-06,5,Control
+ctrl1-3.csv,1.12E-05,ctrl2-3.csv,8.68E-06,ctrl3-3.csv,NaN,9.94E-06,1.78E-06,9.94E-03,1.78E-03,8,Control
+ctrl1-4View1.csv,9.56E-05,ctrl2-4View2.csv,8.20E-05,ctrl3-4View2.csv,NaN,8.88E-05,9.67E-06,8.88E-02,9.67E-03,12,Control
+ctrl1-5.csv,6.14E-04,ctrl2-5.csv,4.49E-04,ctrl3-5.csv,NaN,5.32E-04,1.17E-04,5.32E-01,1.17E-01,15,Control
+ctrl1-6.csv,1.52E-03,ctrl2-6.csv,1.55E-03,ctrl3-6.csv,NaN,1.53E-03,1.55E-05,1.53E+00,1.55E-02,19,Control
+ctrl1-7.csv,1.84E-03,ctrl2-7.csv,1.76E-03,ctrl3-7.csv,NaN,1.80E-03,6.05E-05,1.80E+00,6.05E-02,22,Control
+ctrl1-8View2.csv,1.85E-03,ctrl2-8View1.csv,1.79E-03,ctrl3-8View1.csv,NaN,1.82E-03,4.06E-05,1.82E+00,4.06E-02,26,Control
+ctrl1-9.csv,1.91E-03,ctrl2-9.csv,1.82E-03,ctrl3-9.csv,NaN,1.86E-03,5.97E-05,1.86E+00,5.97E-02,29,Control
+fhy1-1.csv,3.78E-06,fhy2-1.csv,3.77E-06,fhy3-1.csv,3.83849E-06,3.80E-06,3.70E-08,3.77E-03,2.85E-06,0,Ferrihydrite
+fhy1-2a.csv,4.05E-06,fhy2-2a.csv,4.12E-06,fhy3-2a.csv,4.10587E-06,4.09E-06,3.62E-08,4.09E-03,4.91E-05,5,Ferrihydrite
+fhy1-3a0.csv,6.24E-06,fhy2-3.csv,4.69E-06,fhy3-3.csv,4.45353E-06,5.13E-06,9.73E-07,5.47E-03,1.10E-03,8,Ferrihydrite
+fhy1-4View2.csv,1.67E-05,fhy2-4View2.csv,2.19E-05,fhy 3-4,NaN,1.93E-05,3.70E-06,1.93E-02,3.70E-03,12,Ferrihydrite
+fhy1-5.csv,5.13E-05,fhy2-5.csv,7.28E-05,fhy3-5.csv,8.46E-05,6.96E-05,1.69E-05,6.96E-02,1.69E-02,15,Ferrihydrite
+fhy1-6.csv,1.94E-04,fhy2-6.csv,2.72E-04,fhy3-6.csv,3.71E-04,2.79E-04,8.88E-05,2.79E-01,8.88E-02,19,Ferrihydrite
+fhy1-7.csv,4.10E-04,fhy2-7.csv,5.16E-04,fhy3-7.csv,6.88E-04,5.38E-04,1.40E-04,5.38E-01,1.40E-01,22,Ferrihydrite
+fhy1-8View2.csv,5.63E-04,fhy2-8View2.csv,6.21E-04,fhy3-8View2.csv,8.08E-04,6.64E-04,1.28E-04,6.64E-01,1.28E-01,26,Ferrihydrite
+fhy1-9.csv,7.02E-04,fhy2-9.csv,7.73E-04,fhy3-9.csv,9.18E-04,7.97E-04,1.10E-04,7.97E-01,1.10E-01,29,Ferrihydrite
+Goe1-1.csv,4.43E-06,goe2-1.csv,4.34E-06,goe3-1.csv,4.32E-06,4.36E-06,5.70E-08,4.36E-03,5.70E-05,0,Goethite
+Goe1-2a.csv,4.12E-06,goe2-2a.csv,4.05E-06,goe3-2a.csv,4.26E-06,4.14E-06,1.08E-07,4.14E-03,1.08E-04,5,Goethite
+Goe1-3.csv,7.85E-06,goe2-3.csv,4.55E-06,goe3-3.csv,7.24E-06,6.54E-06,1.75E-06,6.54E-03,1.75E-03,8,Goethite
+Goe1-4View2.csv,4.31E-05,goe2-4View2.csv,2.55E-05,goe3-4View2.csv,3.53E-05,3.46E-05,8.83E-06,3.46E-02,8.83E-03,12,Goethite
+Goe1-5.csv,2.54E-04,goe2-5.csv,9.76E-05,goe3-5.csv,1.63E-04,1.72E-04,7.88E-05,1.72E-01,7.88E-02,15,Goethite
+goe1-6-2.csv,1.16E-03,goe2-6a.csv,4.92E-04,goe3-6.csv,9.04E-04,8.52E-04,3.37E-04,8.52E-01,3.37E-01,19,Goethite
+goe1-7.csv,1.72E-03,goe2-7.csv,1.24E-03,goe3-7.csv,1.75E-03,1.57E-03,2.90E-04,1.57E+00,2.90E-01,22,Goethite
+goe1-8View2.csv,1.79E-03,goe2-8View2.csv,1.70E-03,goe3-8View2.csv,1.81E-03,1.77E-03,5.84E-05,1.77E+00,5.84E-02,26,Goethite
+goe1-9.csv,1.75E-03,goe2-9a.csv,1.70E-03,goe3-9.csv,1.84E-03,1.76E-03,6.89E-05,1.76E+00,6.89E-02,29,Goethite
+hem1-1.csv,4.13E-06,hem2-1.csv,4.20E-06,hem3-1.csv,4.03E-06,4.12E-06,8.67E-08,4.12E-03,8.67E-05,0,Hematite
+hem1-2a.csv,4.39E-06,hem2-2a.csv,4.41E-06,hem3-2a.csv,4.22E-06,4.34E-06,1.03E-07,4.34E-03,1.03E-04,5,Hematite
+hem1-3.csv,1.66E-05,hem2-3.csv,8.51E-06,hem3-3.csv,8.94E-06,1.13E-05,4.55E-06,1.13E-02,4.55E-03,8,Hematite
+hem1-4View2.csv,2.06E-04,hem2-4View2.csv,7.24E-05,hem3-4View2.csv,6.19E-05,1.13E-04,8.03E-05,1.13E-01,8.03E-02,12,Hematite
+hem1-5a.csv,1.03E-03,hem2-5.csv,3.48E-04,hem3-5.csv,3.47E-04,5.74E-04,3.92E-04,5.74E-01,3.92E-01,15,Hematite
+hem1-6-2View1.csv,1.68E-03,hem2-6.csv,1.18E-03,hem3-6.csv,1.59E-03,1.49E-03,2.67E-04,1.49E+00,2.67E-01,19,Hematite
+hem1-7.csv,1.87E-03,hem2-7.csv,1.54E-03,hem3-7.csv,1.79E-03,1.73E-03,1.71E-04,1.73E+00,1.71E-01,22,Hematite
+hem1-8expView2.csv,1.93E-03,hem2-8View2.csv,1.60E-03,hem3-8View2.csv,1.86E-03,1.80E-03,1.77E-04,1.80E+00,1.77E-01,26,Hematite
+hem1-9.csv,1.89E-03,hem2-9.csv,1.66E-03,hem3-9.csv,1.89E-03,1.81E-03,1.36E-04,1.81E+00,1.36E-01,29,Hematite
